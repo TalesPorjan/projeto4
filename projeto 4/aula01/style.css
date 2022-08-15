@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&family=Work+Sans:wght@400;500;700&display=swap');
+
+:root {
+    --body-bg-color: #121214;
+    --text-color: #E1E1E6;
+    --title-color: #04D361;
+    --form-color: #A8A8A8;
+    --bg-button-color: #8257e5;
+  }
+
+body {
+    background-color: var(--body-bg-color);
+}
+
+#title {
+position: absolute;
+width: 389px;
+height: 94px;
+left: 30px;
+top: 50px;
+
+}
+
+header {
+margin: 20px;
+display: flex;
+width: 389px;
+height: 94px;
+left: 30px;
+top: 50px;
+
+}
+
+h1 {
+position: absolute;
+width: 566px;
+height: 30.44px;
+left: 36px;
+top: 236px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+color: #08C05E;
+
+}
+
+h2 {
+position: absolute;
+width: 517px;
+height: 16px;
+left: 36px;
+top: 275px;
+
+font-family:'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+color: #FFFFFF; 
+}
+
+p {
+    position: absolute;
+    width: 647px;
+    height: 38px;
+    left: 38px;
+    top: 300px;
+    
+    font-family: 'Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+}
+
+img {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1175px;
+    height: 784px;
+    left: 740px;
+    top: 1px;
+    
+    
+    background: url(read_news.jpg);
+    border: 1px solid #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+}
+
+form {
+ position: absolute;
+ width: 798px;
+ height: 40px;
+ left: 21px;
+ top: 424px;
+    
+ filter: drop-shadow(4px 10px 15px rgba(0, 0, 0, 0.5));
+
+
+
+
+}
+
+input {
+    width: 530px;
+    height: 30px;
+    background: rgba(255, 255, 255, 1);
+
+
+}
+
+
+    
+
+
+
+
+h4 {
+position: absolute;
+width: 133px;
+height: 19px;
+left: 36px;
+top: 350px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 138.73%;
+color: #A8A8A8;
+}
+
+button {
+position: absolute;
+padding:5px;
+
+margin:285px;
+left:249px;
+background-color: #8257E5;
+
+}
+
+button > svg {
+    padding: 2px;
+    top:2px;
+    margin: 0px;
+    
+    
+}
+
+h3 {
+
+position: absolute;
+width: 196px;
+height: 24px;
+left: 36px;
+top: 522px;
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 138.73%;
+color: #8257E5;
+
+
+}
+
+footer > svg {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 198px;
+top: 540px;
+
+}
+
+section  {
+
+position: absolute;
+width: 1175px;
+height: 600px;
+left: 100px;
+top: 2px;
+
+
+}
